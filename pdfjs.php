@@ -1,4 +1,5 @@
-<?php defined('_JEXEC') or die ;
+/* Joomla-pdf project */
+    <?php defined('_JEXEC') or die ;
 
 class plgContentPDFJS extends JPlugin
 {
