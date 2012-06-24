@@ -1,6 +1,7 @@
 <?php
     /*
-     *  Joomla-pdf project 
+     *  Joomla-pdf project by JowWow Hosting
+
      */
  defined('_JEXEC') or die ;
 
